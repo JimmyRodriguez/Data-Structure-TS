@@ -1,4 +1,34 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "name": "ebook-frontend-project",
+  "version": "0.0.1",
+  "description": "Ejemplo de desarrollo de aplicación web con JavaScript",
+  "bugs": {
+    "url": "https://github.com/carlosazaustre/ebook-frontend-project/issues",
+    "email": "cazaustre@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Carlos Azaustre",
+    "email": "cazaustre@gmail.com",
+    "url": "http://carlosazaustre.es"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosazaustre/ebook-frontend-project"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "connect-history-api-fallback": "^1.1.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.3.1",
+    "gulp-if": "^2.0.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-stylus": "^2.1.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-useref": "^3.0.4",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0",
+    "nib": "^1.1.0"
+  }
 }
